@@ -4,6 +4,9 @@ int main()
 {
     int n,i;
     
+// Harsh Suryavanshi //
+// FCA42 Comp A//
+
     printf("enter number:");
     scanf("%d",&n);
     
