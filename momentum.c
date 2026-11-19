@@ -13,7 +13,7 @@ int main() {
  printf("Enter Velocity:");
  scanf("%d", &v);
 
- p=mv;
+ p=m*v;
 
  printf("Momentum=%d", p);
 
