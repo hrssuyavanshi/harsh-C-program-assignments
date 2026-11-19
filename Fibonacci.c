@@ -4,8 +4,8 @@ int main() {
     int n;
     int a = 0, b = 1, next;
 
-// Harsh Suryavanshi //
-// FCA42 Comp A//
+    printf("Harsh Suryavanshi\n");
+    printf("FCA42, Comp A\n");
 
     printf("Enter the number of terms: ");
     scanf("%d", &n);
