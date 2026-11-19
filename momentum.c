@@ -4,9 +4,7 @@ int main() {
 
  int p,m,v;
 
-// Harsh Suryavanshi//
-// FCA42 Comp A//
-
+ printf("Harsh Suryavanshi\n");                 printf("FCA42, Comp A\n");
  printf("Enter Mass:");
  scanf("%d", &m);
 
