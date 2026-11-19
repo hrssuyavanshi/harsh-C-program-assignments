@@ -6,9 +6,9 @@ int main()
     int num;
     double cuberoot;
 
-// Harsh Suryavanshi //
-// FCA42 Comp A//
-    
+    printf("Harsh Suryavanshi\n");
+    printf("FCA42, Comp A\n");
+
     printf("enter number:");
     scanf("%d",&num);
     
